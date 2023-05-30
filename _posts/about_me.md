@@ -4,7 +4,7 @@ title: "About Me"
 author: "Georgia"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: __DSF1146.JPG_
 ---
 
 Hi there!
